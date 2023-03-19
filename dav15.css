@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: 366px;
+    height: 420px;
+    border-bottom-left-radius:50px;
+    background-color: #faf4ef;
+    
+   
+}
+
+.card{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.teqsti1{
+    margin-left: 38px;
+    margin-top: 43px;
+    color:#4B4B4B;
+}
+
+.teqsti2{
+    margin-left: 38px;
+   margin-top: -10px;
+   color: #737373;
+   
+}
+
+.poto{
+    height: 290px;
+    width: 290px;
+    margin-left: 35px;
+    margin-top: 48px;
+}
